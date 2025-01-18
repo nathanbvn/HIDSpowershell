@@ -74,7 +74,7 @@ Upon running the script, the application window will appear, presenting two opti
 
 ### Local Monitoring:
 
-![image](https://github.com/user-attachments/assets/535455b0-18e1-4dec-8143-408210c3f17f)
+![image](https://github.com/user-attachments/assets/11632ba0-e351-47c6-8af7-c4b59fe55b87)
 
 
 For local monitoring, fill out the following:
@@ -86,7 +86,8 @@ You can then start the monitoring process, which will run in the background unti
 
 ## Remote Monitoring:
 
-![image](https://github.com/user-attachments/assets/8977c288-cbb8-4a13-b87e-dc3603776141)
+![image](https://github.com/user-attachments/assets/78d0755a-50b2-4a04-a256-54e0e3ad8024)
+
 
 For remote monitoring, fill out the following:
 
